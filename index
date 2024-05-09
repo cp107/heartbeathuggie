@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  <head>
+    <title>Story by HTML5 UP</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=no"
+    />
+    <link rel="stylesheet" href="main.css" />
+    <noscript><link rel="stylesheet" href="noscript.css" /></noscript>
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper" class="divided">
+      <!-- One -->
+      <section
+        class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+      >
+        <div class="content">
+          <h1>Heartbeat Huggies</h1>
+          <h2>Project Team: Caitlin Papagelis, Sumin Heo, Ria Goveas</h2>
+        </div>
+        <div class="image">
+          <img
+            src="https://cdn.glitch.global/58ade67e-b67c-411a-b43b-e0f607a14e64/Tangible%20User%20Interface%20(2).png?v=1715209956607"
+            alt="image with teddy bear surrounded by hearts"
+          />
+        </div>
+      </section>
+
+      <!-- Product Concept -->
+
+      <section
+        class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+      >
+        <div class="content">
+          <h2>Product Concept</h2>
+          <p class="major">
+            Based on our problem statement: ...to design a novel tangible user interface, which helps support the productivity, creativity, and well being of people who work or study in mobile environments.
+            We created a tangible user interface (TUI) named Heartbeat Huggies.
+          </p>
+          <p class="major">
+            We aim to promote productivity, creativity, and wellbeing through
+            the sleep assistance of young children.
+          </p>
+        </div>
+        
+      </section>
+    <!-- Why Heartbeat Huggies -->
+      <section
+        id= "why" class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+      >
+        <div class="content">
+          <h2></h2>
+          <div class="row">
+            <div class="column">
+              <img
+                src="https://cdn.glitch.global/58ade67e-b67c-411a-b43b-e0f607a14e64/4.png?v=1715196799401"
+                alt="Why Heartbeat Huggies"
+                style="width: 100%"
+              />
+            </div>
+        </div>
+        </div>
+      </section>
+      <!-- Impacts -->
+      <section
+        class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+      >
+        <div class="content">
+          <h2>Long-term impacts:</h2>
+          <ul>
+            <li>promoting independence</li>
+            <li>reduced dependency,</li>
+            <li>improved sleep hygiene</li>
+            <li>emotional development,</li>
+            <li>family harmony</li>
+          </ul>
+        </div>
+        <div class="image">
+          <img
+            src="https://cdn.glitch.global/58ade67e-b67c-411a-b43b-e0f607a14e64/Screen%20Shot%202024-05-08%20at%208.57.53%20PM.png?v=1715216286454"
+            alt="red background"
+          />
+        </div>
+      </section>
+      <section
+        class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+      >
+        <div class="content">
+          <h2>Short-term impacts:</h2>
+          <ul>
+            <li>immediate comfort</li>
+            <li>reduced anxiety,</li>
+            <li>improved sleep quality</li>
+            <li>established bedtime routine</li>
+            <li>parental peace of mind</li>
+          </ul>
+         
+        </div>
+        <div class="image">
+          <img
+            src="https://cdn.glitch.global/58ade67e-b67c-411a-b43b-e0f607a14e64/Screen%20Shot%202024-05-08%20at%208.57.53%20PM.png?v=1715216286454"
+            alt="red background"
+          />
+        </div>
+      </section>
+      <!-- Two -->
+               
+          <section
+        class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+      >
+           
+        <div class="content">
+          <h1>Intended Users:</h1>
+          <h2>Young Children Struggling to Sleep</h2>
+          <p>
+           This product aims to improve the sleep quality and independence
+            of young children using haptic motors, a customizable soothing aroma, and companionship.
+          </p>
+        </div>
+        <div class="image">
+          <img
+            src="https://cdn.glitch.global/58ade67e-b67c-411a-b43b-e0f607a14e64/DALL%C2%B7E%202024-04-30%2015.10.47%20-%20A%20minimalist%20cartoon-style%20image%20of%20concerned%20parents%20looking%20at%20their%20children%20who%20have%20fallen%20asleep.%20The%20image%20features%20simple%2C%20clean%20lines%20with%20mi.webp?v=1715196966670"
+            alt="image of children and caretaker"
+          />
+        </div>
+      </section>
+
+      <!-- Three -->
+  
+
+      <!-- Four -->
+      <section
+        class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+      >
+        <div class="content">
+          
+          <h2>Parents and Guardians Working from Home</h2>
+          <p>
+           With the purpose of of providing childcare aid to busy parents
+          </p>
+        </div>
+        <div class="image">
+          <img
+            src="https://cdn.glitch.global/58ade67e-b67c-411a-b43b-e0f607a14e64/DALL%C2%B7E%202024-04-30%2015.11.52%20-%20A%20minimalist%20cartoon-style%20image%20depicting%20a%20parent%20working%20from%20home.%20The%20scene%20shows%20a%20parent%2C%20depicted%20with%20simple%20geometric%20shapes%20and%20minimal%20fea.webp?v=1715196966923"
+            alt="image of women working from home"
+          />
+        </div>
+      </section>
+
+      <!-- Five -->
+      <section
+        class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+        id="first"
+      >
+        <div class="content">
+          <h1>Design Process</h1>
+
+          <div class="row">
+            <div class="column">
+              <img
+                src="https://cdn.glitch.global/58ade67e-b67c-411a-b43b-e0f607a14e64/5.png?v=1715196799802"
+                alt="Forest"
+                style="width: 100%"
+              />
+            </div>
+            <div class="column">
+              <img
+                src="https://cdn.glitch.global/58ade67e-b67c-411a-b43b-e0f607a14e64/6.png?v=1715196800230"
+                alt="Mountains"
+                style="width: 100%"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- Six -->
+      <section class="wrapper style1 align-center">
+        <div class="inner">
+          <h2>Demo Video</h2>
+          <p>
+            To demonstrate the usage of our TUI, we filmed two demo videos
+            demonstrating its technicality and design choices.
+          </p>
+          <iframe
+            width="315"
+            height="560"
+            src="https://www.youtube.com/embed/khDyNBgIRqk"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/TEDlUH8yoyw?si=j-ryXUkpnx9HjAr7"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+        </div>
+
+        <!-- Gallery -->
+        <div class="gallery style2 medium lightbox onscroll-fade-in">
+          <article>
+            <a href="images/gallery/fulls/01.jpg" class="image">
+              <img src="images/gallery/thumbs/01.jpg" alt="" />
+            </a>
+            -->
+      <section class="wrapper style1 align-center">
+        <!--
+						<div class="inner medium">
+							<h2>Get in touch</h2>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field half">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" value="" />
+									</div>
+									<div class="field half">
+										<label for="email">Email</label>
+										<input type="email" name="email" id="email" value="" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="6"></textarea>
+									</div>
+								</div>
+								<ul class="actions special">
+									<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+
+						</div>
+					-->
+      </section>
+
+      <!-- Footer -->
+      <footer class="wrapper style1 align-center"></footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="jquery.min.js"></script>
+    <script src="jquery.scrollex.min.js"></script>
+    <script src="jquery.scrolly.min.js"></script>
+    <script src="browser.min.js"></script>
+    <script src="breakpoints.min.js"></script>
+    <script src="util.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
